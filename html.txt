@@ -1,2 +1,4 @@
 html is one type of langugae we use to develope websites 
 it is structure of the website we are working 
+it is easy to learn
+it provides us various structures so we can build our website
